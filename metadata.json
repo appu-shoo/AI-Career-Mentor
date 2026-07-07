@@ -1,0 +1,6 @@
+{
+  "name": "AI Career Mentor",
+  "description": "An enterprise-grade AI Career Mentor Platform with interactive roadmaps, mock interviews, ATS resume analyzers, and skill gap visualizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
